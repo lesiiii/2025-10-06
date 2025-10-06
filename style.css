@@ -1,0 +1,13 @@
+/*basic css coloring*/
+h1 {
+    color: blue;
+}
+/*class*/
+.container {
+    color: darkslateblue;
+    width: 601px;
+    font-style: oblique;
+    background-color: azure;
+    margin:auto
+    padding 20px;
+}
