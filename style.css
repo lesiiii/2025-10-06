@@ -8,11 +8,17 @@ h1 {
     color: teal;
     width: 601px;
     font-style: oblique;
-    background-color: azure;
+    background-color: #eee;
     margin: auto;
     padding: 20px;
+    border: 5px solid lightsteelblue; 
+    border-radius: 10px;
     }
 
     body {
-    background-color: azure;
+    background-color: #eeeefe;
+    }
+
+    p {
+        color: #333333;
     }
