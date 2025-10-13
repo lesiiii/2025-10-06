@@ -39,3 +39,7 @@ img {
 .clear {
     clear: both;
 }
+
+.header {
+    height: 300px;
+}
